@@ -1,1 +1,1 @@
-web: python script_chatbot_zapi.py
+web: python bot_chat_transito_debug
